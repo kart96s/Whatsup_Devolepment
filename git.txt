@@ -1,0 +1,5 @@
+1. Build Your Own Chat App:
+Contus Fly is a instant messaging solution that can be customised according to the needs of the user. The customizations are highly flexible and can be made both initially or even after the app is launched.
+
+2. Chat API:
+Chat API provides users the access to infrastructure of server. This enables any website or app to be integrated with a messaging solution that performs without any hassles and is highly scalable.
